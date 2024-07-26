@@ -1,0 +1,41 @@
+body{
+    background-color: aliceblue;
+}
+div{
+    background-color: red;
+    font-size: 200%;
+    color: aliceblue;
+padding: 3%;
+text-align: center;
+}
+li{ background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 120%;
+    
+}
+a{
+    color: white
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+
+}
+
+img{
+    width: 150px;
+    padding: 30px;
+    
+}
+p{
+    color: black
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+}
+footer{
+ background-color: brown;
+ text-align: center;
+ position: absolute;
+ padding: 10 0%;
+ width: 100%;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
